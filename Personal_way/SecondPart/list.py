@@ -19,3 +19,20 @@ Cas 2: actualitzar el segon curs
 llista_curs[1] = 'CSS'
 segoncursCanviat = llista_curs[1]
 print(segoncursCanviat)
+
+"""
+Cas 3: subllista 1 i subllista 2
+Subllista 1
+[start:end] 
+[start:] -> obtimbre, els últims elements de la llista
+[:end] -> obtindrem els primers elements de la llista
+subllista 2
+[start:end:els salts que volem que faci]
+"""
+
+subllista = llista_curs[0:2] #Vull veure del primer fins al tercer curs, Python y CSS
+print(subllista)
+
+llista_curs = ['Python', 'Java', 'PHP', 'HTML', 'CSS', 'Ruby', 'C++', 'C#', 'VBA']
+subllista = llista_curs[0:8:2] #Vull veure del primer fins al tercer curs, Python y CSS
+print(subllista)
