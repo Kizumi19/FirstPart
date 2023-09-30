@@ -18,3 +18,5 @@ if numero_de_articles > 10  and total_de_compra > 100:
 
 else:
     print("Descompte no aplicat")
+
+    # Comprovació de commit 2
