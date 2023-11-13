@@ -17,7 +17,7 @@ def crear_docker_directori(nom_directori):
     else:
         print(f"El directori {ruta_final} ja existeix.")
 
-    # Creació de l'arxiu docker.compose.yml
+    # Creació + Comprovació si existeix l'arxiu docker.compose.yml
     ruta_docker_compose = os.path.join(ruta_final, 'docker-compose.yml')
     if not os.path.exists(ruta_docker_compose):
         with open(ruta_docker_compose, 'w') as arxiu:
