@@ -6,7 +6,7 @@ passwd_path = '/etc/passwd'
 # Ruta d'exportació de l'arxiu CSV
 csv_path = 'usuaris.csv'
 
-# Llegir les dades i guardar-les en un array
+# Guardar les dades en un array
 csv_data = []
 
 # Llegir l'arxiu /etc/passwd
