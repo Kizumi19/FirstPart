@@ -1,0 +1,6 @@
+Nom màquina: programmer-Latitude-5480
+Sistema Operatiu: Linux 6.2.0-36-generic
+Interfícies de xarxa:
+lo - IP: 127.0.0.1, Màscara: 255.0.0.0, MAC: 00:00:00:00:00:00
+enp0s31f6 - IP: No es pot obtenir, Màscara: No es pot obtenir, MAC: a4:4c:c8:14:7e:83
+wlp2s0 - IP: 192.168.30.20, Màscara: 255.255.255.0, MAC: 1c:4d:70:45:ab:0a
