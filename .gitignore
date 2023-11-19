@@ -1,0 +1,14 @@
+cas2/Tasks/4./Project/dades_mysql/auto.cnf
+cas2/Tasks/4./Project/dades_mysql/ca-key.pem
+cas2/Tasks/4./Project/dades_mysql/ca.pem
+cas2/Tasks/4./Project/dades_mysql/client-cert.pem
+cas2/Tasks/4./Project/dades_mysql/client-key.pem
+cas2/Tasks/4./Project/dades_mysql/ib_buffer_pool
+cas2/Tasks/4./Project/dades_mysql/ib_logfile0
+cas2/Tasks/4./Project/dades_mysql/ib_logfile1
+cas2/Tasks/4./Project/dades_mysql/ibdata1
+cas2/Tasks/4./Project/dades_mysql/mysql.sock
+cas2/Tasks/4./Project/dades_mysql/private_key.pem
+cas2/Tasks/4./Project/dades_mysql/public_key.pem
+cas2/Tasks/4./Project/dades_mysql/server-cert.pem
+cas2/Tasks/4./Project/dades_mysql/server-key.pem
